@@ -57,7 +57,6 @@ def ispis():
     s.close()
     popuniLabelu(srednjaocena)
     tekst+=poruka
-
     # ╔═════════╦═══════╦═════╗
     # ║ Predmet ║ Ocena ║ P/N ║
     # ╠═════════╬═══════╬═════╣
