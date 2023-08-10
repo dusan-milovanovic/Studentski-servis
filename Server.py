@@ -12,6 +12,7 @@ port = 30111
 s.bind((host, port))
 s.listen(5)
 
+#ne radi nista, tu je samo da cekiram da ima sve sto treba
 listaKorisnika = [['14588', 'Danijela'], ['98653', 'Marija'], ['54896', 'Jovan'], ['1', 'Dusan']]
 fp = open('jsonpodaci.txt', 'w')
 for korisnik in listaKorisnika:
