@@ -20,6 +20,6 @@ The student is supposed to first sign in using their unique student ID. It sends
 
 The student is able to see upcoming exams for each subject in a separate tab. *(to be finished)* It allows the student to apply by simply selecting a subject and pressing a button.
 
-#### 3. DB.db
+#### 3. DB.py and DB.db
 
-Dummy database with dummy tables and dummy data, with sole purpose of testing the app
+DB.db is a dummy database with dummy tables and dummy data, with the sole purpose of testing the app, while DB.py is a file through which that database was created using the sqlite3 module
