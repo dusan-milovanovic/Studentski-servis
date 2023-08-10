@@ -2,7 +2,7 @@
 
 ### What is it?
 
-A small and unfinished app I did as one of the school projects. It is not finished in the sense that there are still some functionalities I thought of, but still haven't implemented. But I did implement everything that was required, and after submitting it I never quite felt like coming back to it. That being said, there are a few things that are there just for the sake of those requirements and serve no real purpose, like mapping and file reading/writing.
+A small and unfinished app I did as one of the school projects. It is not finished in the sense that there are still some functionalities I thought of, but still haven't implemented. But I did implement everything that was required, and after submitting it I never quite felt like coming back to it. That being said, there are a few things that are there just for the sake of those requirements and serve no real purpose, like mapping and file reading/writing (jsonpodaci.txt file).
 
 ### What's in there?
 
